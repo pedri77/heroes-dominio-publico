@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "black-terror",
+    "nombre": "Black Terror",
+    "qid": "Q4922006",
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Terror",
+    "descripcion_es": "personaje de cómic",
+    "descripcion_en": "comics character",
+    "editorial": [
+      "Nedor Comics America's Best Comics Dynamite Entertainment"
+    ],
+    "creadores": [
+      "Richard E. Hughes"
+    ],
+    "debut": "Exciting Comics #9 (Jan. 1941)",
+    "alter_ego": "Bob Benton",
+    "poderes": "Super strength Limited invulnerability",
+    "imagenes": [
+      {
+        "fichero": "File:AmericasBestComics1001.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/AmericasBestComics1001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics1001.jpg",
+        "ancho": 1625,
+        "alto": 2429,
+        "licencia": "Public domain",
+        "autor": "Alex Schomburg",
+        "descripcion": "Doc Strange, Black Terror, American Eagle and Pyroman on the over of America's Best Comics #10, July 1944"
+      },
+      {
+        "fichero": "File:AmericasBestComics2103.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/AmericasBestComics2103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2103.jpg",
+        "ancho": 555,
+        "alto": 831,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author, Original uploader was Atomicsteve at en.wikisource.org",
+        "descripcion": "America's Best Comics #21 March 1947 Page 3"
+      },
+      {
+        "fichero": "File:AmericasBestComics2104.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/AmericasBestComics2104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2104.jpg",
+        "ancho": 555,
+        "alto": 814,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author, Original uploader was Atomicsteve at en.wikisource.org",
+        "descripcion": "America's Best Comics #21 March 1947 Page 4"
+      },
+      {
+        "fichero": "File:AmericasBestComics2106.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/AmericasBestComics2106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2106.jpg",
+        "ancho": 559,
+        "alto": 808,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author, Original uploader was Atomicsteve at en.wikisource.org",
+        "descripcion": "America's Best Comics #21 March 1947 Page 6"
+      },
+      {
+        "fichero": "File:AmericasBestComics2108.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/AmericasBestComics2108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2108.jpg",
+        "ancho": 548,
+        "alto": 810,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author, Original uploader was Atomicsteve at en.wikisource.org",
+        "descripcion": "America's Best Comics #21 March 1947 Page 8"
+      },
+      {
+        "fichero": "File:AmericasBestComics2109.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/AmericasBestComics2109.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2109.jpg",
+        "ancho": 587,
+        "alto": 883,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author, Original uploader was Atomicsteve at en.wikisource.org",
+        "descripcion": "America's Best Comics #21 March 1947 Page 9"
+      },
+      {
+        "fichero": "File:AmericasBestComics2111.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/AmericasBestComics2111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2111.jpg",
+        "ancho": 552,
+        "alto": 837,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author, Original uploader was Atomicsteve at en.wikisource.org",
+        "descripcion": "America's Best Comics #21 March 1947 Page 11"
+      },
+      {
+        "fichero": "File:AmericasBestComics2112.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/AmericasBestComics2112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2112.jpg",
+        "ancho": 551,
+        "alto": 825,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author, Original uploader was Atomicsteve at en.wikisource.org",
+        "descripcion": "America's Best Comics #21 March 1947 Page 9"
+      },
+      {
+        "fichero": "File:AmericasBestComics2606.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/AmericasBestComics2606.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2606.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Unknown sourceUnknown source",
+        "descripcion": "America's Best Comics #26, Page 6, May 1948"
+      },
+      {
+        "fichero": "File:BlackTerror1203.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/BlackTerror1203.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BlackTerror1203.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ed Moritz (pencils) and Ed Hamilton (inks)",
+        "descripcion": "The Black Terror #12, Page 3 November, 1945"
+      },
+      {
+        "fichero": "File:BlackTerror1624.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BlackTerror1624.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BlackTerror1624.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Harris Steinbrook",
+        "descripcion": "The Black Terror #16, Page 24 October, 1946"
+      },
+      {
+        "fichero": "File:BlackTerror1625.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/BlackTerror1625.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BlackTerror1625.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Harris Steinbrook",
+        "descripcion": "The Black Terror #16, Page 25 October, 1946"
+      },
+      {
+        "fichero": "File:BlackTerror1636.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/BlackTerror1636.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BlackTerror1636.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Harris Steinbrook",
+        "descripcion": "The Black Terror #16, Page 36 October, 1946"
+      },
+      {
+        "fichero": "File:BlackTerror1637.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/BlackTerror1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BlackTerror1637.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Harris Steinbrook",
+        "descripcion": "The Black Terror #16, Page 37 October, 1946"
+      },
+      {
+        "fichero": "File:BlackTerror2419.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/BlackTerror2419.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:BlackTerror2419.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "The Black Terror #24, Page 19 September, 1948"
+      },
+      {
+        "fichero": "File:Exciting Comics 39.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Exciting_Comics_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Exciting_Comics_39.jpg",
+        "ancho": 1584,
+        "alto": 2349,
+        "licencia": "Public domain",
+        "autor": "Alex Schomburg",
+        "descripcion": "Cover of issue 39 of the Nedor Comics series Exciting Comics. The Black Terror punches a Nazi soldier in the face, interrupting him in the process of injecting poison into candy bars. In the background, another Nazi gives candy bars to children."
+      },
+      {
+        "fichero": "File:Exciting Comics 9.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Exciting_Comics_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Exciting_Comics_9.jpg",
+        "ancho": 400,
+        "alto": 553,
+        "licencia": "Public domain",
+        "autor": "Elmer Wexler",
+        "descripcion": "Cover of Nedor Comics Exciting Comics #9, first appearance of The Black Terror. Comic company is defunct, work believed to be in the public domain."
+      }
+    ]
+  },
+  {
+    "id": "fighting-yank",
+    "nombre": "Fighting Yank",
+    "qid": "Q5447934",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fighting_Yank",
+    "descripcion_es": null,
+    "descripcion_en": "fantam character is a model of Yank",
+    "editorial": [
+      "Nedor Comics"
+    ],
+    "creadores": [
+      "Richard E. Hughes"
+    ],
+    "debut": "Startling Comics #10 (September 1941)",
+    "alter_ego": "Bruce Carter III",
+    "poderes": "{{plainlist|",
+    "imagenes": [
+      {
+        "fichero": "File:AmericasBestComics2124.1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AmericasBestComics2124.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2124.1.jpg",
+        "ancho": 657,
+        "alto": 955,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 28"
+      },
+      {
+        "fichero": "File:AmericasBestComics2125.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/AmericasBestComics2125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2125.jpg",
+        "ancho": 579,
+        "alto": 857,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 29"
+      },
+      {
+        "fichero": "File:AmericasBestComics2126.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/AmericasBestComics2126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2126.jpg",
+        "ancho": 559,
+        "alto": 817,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 30"
+      },
+      {
+        "fichero": "File:AmericasBestComics2127.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/AmericasBestComics2127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2127.jpg",
+        "ancho": 574,
+        "alto": 874,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 31"
+      },
+      {
+        "fichero": "File:AmericasBestComics2128.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/AmericasBestComics2128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2128.jpg",
+        "ancho": 559,
+        "alto": 825,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 32"
+      },
+      {
+        "fichero": "File:AmericasBestComics2129.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/AmericasBestComics2129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2129.jpg",
+        "ancho": 582,
+        "alto": 894,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 33"
+      },
+      {
+        "fichero": "File:AmericasBestComics2130.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/AmericasBestComics2130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2130.jpg",
+        "ancho": 523,
+        "alto": 767,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 34"
+      },
+      {
+        "fichero": "File:AmericasBestComics2131.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/AmericasBestComics2131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2131.jpg",
+        "ancho": 561,
+        "alto": 817,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 35"
+      },
+      {
+        "fichero": "File:AmericasBestComics2132.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/AmericasBestComics2132.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2132.jpg",
+        "ancho": 532,
+        "alto": 777,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 36"
+      },
+      {
+        "fichero": "File:AmericasBestComics2133.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/AmericasBestComics2133.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2133.jpg",
+        "ancho": 565,
+        "alto": 815,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 37"
+      },
+      {
+        "fichero": "File:AmericasBestComics2232.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/AmericasBestComics2232.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2232.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #22, Page 32, June, 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2317.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/AmericasBestComics2317.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2317.jpg",
+        "ancho": 673,
+        "alto": 875,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #23, Page 17, September 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2319.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/AmericasBestComics2319.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2319.jpg",
+        "ancho": 670,
+        "alto": 846,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #23, Page 19, September 1947"
+      },
+      {
+        "fichero": "File:Joan-has-followed-1946.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Joan-has-followed-1946.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Joan-has-followed-1946.png",
+        "ancho": 1687,
+        "alto": 2048,
+        "licencia": "Public domain",
+        "autor": "File:AmericasBestComics1847.jpg: Alex Schomburg\nderivative work: Jerimee",
+        "descripcion": "\"...Joan has followed the pretended janitor...\" America's Best Comics #18, page 47 June 1946"
+      },
+      {
+        "fichero": "File:StartlingComics10FightingYank.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/StartlingComics10FightingYank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:StartlingComics10FightingYank.jpg",
+        "ancho": 1111,
+        "alto": 1500,
+        "licencia": "Public domain",
+        "autor": "Elmer Wexler",
+        "descripcion": "Fighting Yank, on the cover of Startling Comics #10 (Sept. 1941).  Art by Elmer Wexler"
+      }
+    ]
+  },
+  {
+    "id": "the-woman-in-red",
+    "nombre": "The Woman in Red",
+    "qid": "Q8030719",
+    "wikipedia": "https://en.wikipedia.org/wiki/Woman_in_Red_%28comics%29",
+    "descripcion_es": null,
+    "descripcion_en": "fictional character",
+    "editorial": [
+      "Nedor Comics America's Best Comics"
+    ],
+    "creadores": [
+      "Richard E. Hughes",
+      "George Mandel"
+    ],
+    "debut": "Thrilling Comics #2 (March 1940)",
+    "alter_ego": "Peggy Allen",
+    "poderes": "Originally: Skilled hand to hand combatant and markswoman America's Best Comics: Flight Energy projection",
+    "imagenes": [
+      {
+        "fichero": "File:Womanred.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Womanred.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Womanred.jpg",
+        "ancho": 300,
+        "alto": 304,
+        "licencia": "Public domain",
+        "autor": "George Mandel",
+        "descripcion": "Panel from Thrilling Comics #14 (March, 1941)"
+      }
+    ]
+  },
+  {
+    "id": "pyroman",
+    "nombre": "Pyroman",
+    "qid": "Q7263667",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pyroman",
+    "descripcion_es": null,
+    "descripcion_en": "fictional superhero in Nedor Comics",
+    "editorial": [
+      "Nedor Comics AC Comics"
+    ],
+    "creadores": [
+      "Jack Binder"
+    ],
+    "debut": "Startling Comics #18 (December 1942)",
+    "alter_ego": null,
+    "poderes": "Summon electricity Transmit electrical bolts Magnetize metal Electrical force field generation Electromagnetic pulses Flight via magnetic currents and radio waves",
+    "imagenes": [
+      {
+        "fichero": "File:AmericasBestComics2033.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/AmericasBestComics2033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2033.jpg",
+        "ancho": 668,
+        "alto": 880,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #20, page 33 December 1946"
+      },
+      {
+        "fichero": "File:AmericasBestComics2116.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/AmericasBestComics2116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2116.jpg",
+        "ancho": 542,
+        "alto": 816,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 16"
+      },
+      {
+        "fichero": "File:AmericasBestComics2117.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/AmericasBestComics2117.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2117.jpg",
+        "ancho": 572,
+        "alto": 856,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 17"
+      },
+      {
+        "fichero": "File:AmericasBestComics2118.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/AmericasBestComics2118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2118.jpg",
+        "ancho": 558,
+        "alto": 832,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 18"
+      },
+      {
+        "fichero": "File:AmericasBestComics2119.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/AmericasBestComics2119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2119.jpg",
+        "ancho": 565,
+        "alto": 853,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 19"
+      },
+      {
+        "fichero": "File:AmericasBestComics2120.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/AmericasBestComics2120.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2120.jpg",
+        "ancho": 548,
+        "alto": 815,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 20"
+      },
+      {
+        "fichero": "File:AmericasBestComics2121.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/AmericasBestComics2121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2121.jpg",
+        "ancho": 569,
+        "alto": 830,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 21"
+      },
+      {
+        "fichero": "File:AmericasBestComics2122.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/AmericasBestComics2122.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2122.jpg",
+        "ancho": 534,
+        "alto": 787,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 22"
+      },
+      {
+        "fichero": "File:AmericasBestComics2123.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/AmericasBestComics2123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2123.jpg",
+        "ancho": 572,
+        "alto": 855,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "America's Best Comics #21 March 1947 Page 23"
+      },
+      {
+        "fichero": "File:AmericasBestComics2222.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/AmericasBestComics2222.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2222.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ken Battefield",
+        "descripcion": "America's Best Comics #22, Page 22, June, 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2224.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/AmericasBestComics2224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2224.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ken Battefield",
+        "descripcion": "America's Best Comics #22, Page 24, June, 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2226.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/AmericasBestComics2226.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2226.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ken Battefield",
+        "descripcion": "America's Best Comics #22, Page 26, June, 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2228.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/AmericasBestComics2228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2228.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ken Battefield",
+        "descripcion": "America's Best Comics #22, Page 28, June, 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2229.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/AmericasBestComics2229.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2229.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ken Battefield",
+        "descripcion": "America's Best Comics #22, Page 22, June, 1947"
+      },
+      {
+        "fichero": "File:StartlingComics18Pyroman.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/StartlingComics18Pyroman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:StartlingComics18Pyroman.jpg",
+        "ancho": 400,
+        "alto": 551,
+        "licencia": "Public domain",
+        "autor": "Jack Binder, Original uploader was en:User:Konczewski at en.wikipedia",
+        "descripcion": "Pyroman, on the cover of Startling Comics #18, published by Nedor Comics."
+      }
+    ]
+  },
+  {
+    "id": "miss-masque",
+    "nombre": "Miss Masque",
+    "qid": "Q3859161",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miss_Masque",
+    "descripcion_es": null,
+    "descripcion_en": "comics character",
+    "editorial": [
+      "Nedor Comics AC Comics America's Best Comics"
+    ],
+    "creadores": [
+      "|alliances=Sentinels of Justice (AC Comics) SMASH (America's Best Comics)"
+    ],
+    "debut": "Exciting Comics #51 (September 1946)",
+    "alter_ego": "Diana Adams",
+    "poderes": "}}",
+    "imagenes": [
+      {
+        "fichero": "File:AmericasBestComics2326-27.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/AmericasBestComics2326-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2326-27.jpg",
+        "ancho": 1081,
+        "alto": 839,
+        "licencia": "Public domain",
+        "autor": "Lin Streeter",
+        "descripcion": "America's Best Comics #23 Pages 26 and 27, November 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2328.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/AmericasBestComics2328.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2328.jpg",
+        "ancho": 634,
+        "alto": 853,
+        "licencia": "Public domain",
+        "autor": "Lin Streeter",
+        "descripcion": "America's Best Comics #23 Page 28, November 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2329.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/AmericasBestComics2329.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2329.jpg",
+        "ancho": 678,
+        "alto": 862,
+        "licencia": "Public domain",
+        "autor": "Lin Streeter",
+        "descripcion": "America's Best Comics #23 Page 29, November 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2333.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/AmericasBestComics2333.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2333.jpg",
+        "ancho": 690,
+        "alto": 854,
+        "licencia": "Public domain",
+        "autor": "Lin Streeter",
+        "descripcion": "America's Best Comics #23 Page 33, November 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2415.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/AmericasBestComics2415.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2415.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Robert Oksner",
+        "descripcion": "America's Best Comics #24, Page 15, December 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2418.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/AmericasBestComics2418.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2418.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Robert Oksner",
+        "descripcion": "America's Best Comics #24, Page 18, December 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2419.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/AmericasBestComics2419.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2419.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Robert Oksner",
+        "descripcion": "America's Best Comics #24, Page 19, December 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2423.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/AmericasBestComics2423.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2423.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Robert Oksner",
+        "descripcion": "America's Best Comics #24, Page 23, December 1947"
+      },
+      {
+        "fichero": "File:AmericasBestComics2619.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/AmericasBestComics2619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2619.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Unknown sourceUnknown source",
+        "descripcion": "America's Best Comics #26, Page 19, May 1948"
+      },
+      {
+        "fichero": "File:AmericasBestComics2620.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/AmericasBestComics2620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2620.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Unknown sourceUnknown source",
+        "descripcion": "America's Best Comics #26, Page 20, May 1948"
+      },
+      {
+        "fichero": "File:AmericasBestComics2622.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/AmericasBestComics2622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics2622.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Unknown sourceUnknown source",
+        "descripcion": "America's Best Comics #26, Page 22, May 1948"
+      },
+      {
+        "fichero": "File:AmericasBestComics3015.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/AmericasBestComics3015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics3015.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ralph Mayo",
+        "descripcion": "America's Best Comics #30, Page 15, April 1949"
+      },
+      {
+        "fichero": "File:AmericasBestComics3016.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/AmericasBestComics3016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics3016.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ralph Mayo",
+        "descripcion": "America's Best Comics #30, Page 16, April 1949"
+      },
+      {
+        "fichero": "File:AmericasBestComics3017.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/AmericasBestComics3017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics3017.jpg",
+        "ancho": 715,
+        "alto": 944,
+        "licencia": "Public domain",
+        "autor": "Ralph Mayo",
+        "descripcion": "America's Best Comics #30, Page 17, April 1949"
+      },
+      {
+        "fichero": "File:ExcitingComics 53.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/ExcitingComics_53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:ExcitingComics_53.jpg",
+        "ancho": 1432,
+        "alto": 2129,
+        "licencia": "Public domain",
+        "autor": "Alex Schomburg",
+        "descripcion": "Cover of Exciting Comics #53"
+      }
+    ]
+  },
+  {
+    "id": "fantomah",
+    "nombre": "Fantomah",
+    "qid": "Q5434398",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fantomah",
+    "descripcion_es": null,
+    "descripcion_en": "American comic book superheroine",
+    "editorial": [
+      "Fiction House"
+    ],
+    "creadores": [
+      "Fletcher Hanks"
+    ],
+    "debut": "Jungle Comics #2 (Feb. 1940)",
+    "alter_ego": "| full_name =",
+    "poderes": "Superstrength, flight, other unspecified powers",
+    "imagenes": [
+      {
+        "fichero": "File:Jungle Comics 15 page Fantomah.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jungle_Comics_15_page_Fantomah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jungle_Comics_15_page_Fantomah.jpg",
+        "ancho": 499,
+        "alto": 560,
+        "licencia": "Public domain",
+        "autor": "Fletcher Hanks",
+        "descripcion": "Fantomah transforming as seen in Jungle Comics #15 (Fiction House)"
+      },
+      {
+        "fichero": "File:Jungle Comics 16 page 60.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jungle_Comics_16_page_60.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jungle_Comics_16_page_60.jpg",
+        "ancho": 975,
+        "alto": 1308,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "Fantomah in Jungle Comics #16, Fiction House,  Apr 1941"
+      },
+      {
+        "fichero": "File:Jungle Comics 51 page 40.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jungle_Comics_51_page_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Jungle_Comics_51_page_40.jpg",
+        "ancho": 975,
+        "alto": 1384,
+        "licencia": "Public domain",
+        "autor": "George Appel",
+        "descripcion": "Second version of Fantomah in Jungle Comics #51, March 1944, art by  George Appel"
+      },
+      {
+        "fichero": "File:Zomaxhad.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Zomaxhad.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Zomaxhad.png",
+        "ancho": 1290,
+        "alto": 1936,
+        "licencia": "Public domain",
+        "autor": "Fletcher Hanks",
+        "descripcion": "Fletcher Hanks had made Jungle Comics #14"
+      }
+    ]
+  },
+  {
+    "id": "stardust",
+    "nombre": "Stardust",
+    "qid": "Q7601608",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stardust_the_Super_Wizard",
+    "descripcion_es": null,
+    "descripcion_en": "Fox Comics superhero first appearing in 1939",
+    "editorial": [
+      "Fox Feature Syndicate"
+    ],
+    "creadores": [
+      "Fletcher Hanks"
+    ],
+    "debut": "Fantastic Comics #1 (December 1939)",
+    "alter_ego": "None",
+    "poderes": "* Superhuman strength, speed, durability and endurance",
+    "imagenes": [
+      {
+        "fichero": "File:FantasticComics14.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/FantasticComics14_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:FantasticComics14_page.jpg",
+        "ancho": 500,
+        "alto": 688,
+        "licencia": "Public domain",
+        "autor": "Fletcher Hanks",
+        "descripcion": "Splash page featuring Stardust the Superwizard"
+      },
+      {
+        "fichero": "File:FantasticComics14 page.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/FantasticComics14_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:FantasticComics14_page.jpg",
+        "ancho": 500,
+        "alto": 688,
+        "licencia": "Public domain",
+        "autor": "Fletcher Hanks",
+        "descripcion": "Splash page featuring Stardust the Superwizard"
+      },
+      {
+        "fichero": "File:Fantastic Comics 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Fantastic_Comics_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Fantastic_Comics_1.jpg",
+        "ancho": 400,
+        "alto": 557,
+        "licencia": "Public domain",
+        "autor": "The original uploader was Konczewski at English Wikipedia.",
+        "descripcion": "Cover of Fantastic Comics #1 (1939)"
+      },
+      {
+        "fichero": "File:Weird Tales Volume 36 Number 9 (1943-01).djvu",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Weird_Tales_Volume_36_Number_9_%281943-01%29.djvu/page1-1280px-Weird_Tales_Volume_36_Number_9_%281943-01%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Weird_Tales_Volume_36_Number_9_(1943-01).djvu",
+        "ancho": 1830,
+        "alto": 2710,
+        "licencia": "Public domain",
+        "autor": "various authors",
+        "descripcion": "4 • The Shape of Thrills to Come (Weird Tales, January 1943) • [The Shape of Thrills to Come] • essay by uncredited\n6 • Quest of a Noble Tiger • short story by Frank Owen\n20 • The Statue • short story by James Causey\n26 • After an Air Raid • poem by Dorothy Quick\n27 • One-Man Boat • short story by A"
+      }
+    ]
+  },
+  {
+    "id": "cat-man-y-kitten",
+    "nombre": "Cat-Man y Kitten",
+    "qid": "Q3663153",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cat-Man_and_Kitten",
+    "descripcion_es": null,
+    "descripcion_en": "1940-1946 comic book superhero",
+    "editorial": [
+      "Frank Z. Temerson Holyoke Publishing"
+    ],
+    "creadores": [
+      "Irwin Hasen"
+    ],
+    "debut": "Crash Comics Adventures #4 (Sept. 1940)",
+    "alter_ego": "David Merryweather",
+    "poderes": "Super-strength, agility, night vision, nine lives",
+    "imagenes": [
+      {
+        "fichero": "File:Cat-Man7.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cat-Man7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cat-Man7.jpg",
+        "ancho": 400,
+        "alto": 554,
+        "licencia": "Public domain",
+        "autor": "Charles Quinlan",
+        "descripcion": "Cover, Cat-Man Comics #7 (vol. 2, #12)- February 1942 - Holyoke (defunct publisher). Cover art by Charles Quinlan (both pencils and inks per Grand Comics Database)"
+      },
+      {
+        "fichero": "File:Cat-Man no. 20 (Et-Es-Go).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Cat-Man_no._20_%28Et-Es-Go%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cat-Man_no._20_(Et-Es-Go).jpg",
+        "ancho": 1707,
+        "alto": 2331,
+        "licencia": "Public domain",
+        "autor": "Charles Quinlan",
+        "descripcion": "Cover of Cat-Man #20, published by Et-Es-Go. Cat-Man has his hands around Adolf Hitler's throat, while Kitten attacks nearby Nazis."
+      }
+    ]
+  },
+  {
+    "id": "miss-victory",
+    "nombre": "Miss Victory",
+    "qid": "Q3859191",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miss_Victory",
+    "descripcion_es": "superheroína estadounidense",
+    "descripcion_en": "American comic book superheroine",
+    "editorial": [
+      "Originally: Helnit 1984–present: A.C. Comics"
+    ],
+    "creadores": [
+      "artist Charles Quinlan and an unknown writer"
+    ],
+    "debut": "Captain Fearless #1 (August 1941)",
+    "alter_ego": "Joan Wayne",
+    "poderes": "*Superhuman strength",
+    "imagenes": [
+      {
+        "fichero": "File:Miss Victory comic 1944.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Miss_Victory_comic_1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Miss_Victory_comic_1944.jpg",
+        "ancho": 269,
+        "alto": 370,
+        "licencia": "Public domain",
+        "autor": "Charles Quinlan, Holyoke Publishing",
+        "descripcion": "Cover of Holyoke One-Shot #3, \"Miss Victory\" (1944)"
+      }
+    ]
+  },
+  {
+    "id": "samson",
+    "nombre": "Samson",
+    "qid": "Q7410352",
+    "wikipedia": "https://en.wikipedia.org/wiki/Samson_%28Fox_Feature_Syndicate%29",
+    "descripcion_es": null,
+    "descripcion_en": "fictional superhero that appeared in comic books published by Fox Feature Syndicate",
+    "editorial": [
+      "Fox Feature Syndicate"
+    ],
+    "creadores": [
+      "Will Eisner",
+      "Alex Blum"
+    ],
+    "debut": "Fantastic Comics #1 (Dec. 1939)",
+    "alter_ego": null,
+    "poderes": "Superhuman strength and endurance Invunerability",
+    "imagenes": [
+      {
+        "fichero": "File:063.Samson and Delilah.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/063.Samson_and_Delilah.jpg/1920px-063.Samson_and_Delilah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pagina": "https://commons.wikimedia.org/wiki/File:063.Samson_and_Delilah.jpg",
+        "ancho": 2335,
+        "alto": 2901,
+        "licencia": "Public domain",
+        "autor": "Gustave Doré",
+        "descripcion": "Samson and Delilah (Jud. 16:4-19)"
+      },
+      {
+        "fichero": "File:064.The Death of Samson.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/064.The_Death_of_Samson.jpg/1920px-064.The_Death_of_Samson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pagina": "https://commons.wikimedia.org/wiki/File:064.The_Death_of_Samson.jpg",
+        "ancho": 2301,
+        "alto": 2899,
+        "licencia": "Public domain",
+        "autor": "Gustave Doré",
+        "descripcion": "The Death of Samson (Jud. 16:25-34)"
+      },
+      {
+        "fichero": "File:Cham - Charivari - V1d021-b.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cham_-_Charivari_-_V1d021-b.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cham_-_Charivari_-_V1d021-b.png",
+        "ancho": 782,
+        "alto": 776,
+        "licencia": "Public domain",
+        "autor": "Amédée de Noé",
+        "descripcion": "“Samson prenant des familiarités avec son coiffeur.”Cette caricature fait référence au tableau Samson et Dalila de Meynier."
+      },
+      {
+        "fichero": "File:Cham - Charivari - V1d059-b.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cham_-_Charivari_-_V1d059-b.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cham_-_Charivari_-_V1d059-b.png",
+        "ancho": 806,
+        "alto": 806,
+        "licencia": "Public domain",
+        "autor": "Amédée de Noé",
+        "descripcion": "M. GLAIZE.\nSamson ayant eu son épaule démise par M. Glaize, les Philistins tachent de la lui remettre en place."
+      },
+      {
+        "fichero": "File:Cham - Charivari - V1d399-d.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cham_-_Charivari_-_V1d399-d.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cham_-_Charivari_-_V1d399-d.png",
+        "ancho": 862,
+        "alto": 808,
+        "licencia": "Public domain",
+        "autor": "Amédée de Noé",
+        "descripcion": "M. NONCLERCQ.\nDalila trouve que Samson aurait bien pu prendre un bain avant de venir la voir."
+      },
+      {
+        "fichero": "File:Cham - Charivari - V6d199-d.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cham_-_Charivari_-_V6d199-d.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Cham_-_Charivari_-_V6d199-d.png",
+        "ancho": 1317,
+        "alto": 1332,
+        "licencia": "Public domain",
+        "autor": "Amédée de Noé",
+        "descripcion": "Dalila admet volontiers Samson, le soir, dans sa chambre à coucher, l’éclat de ses yeux lui économisant les frais d’une veilleuse."
+      },
+      {
+        "fichero": "File:Fantastic Comics 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Fantastic_Comics_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Fantastic_Comics_1.jpg",
+        "ancho": 400,
+        "alto": 557,
+        "licencia": "Public domain",
+        "autor": "The original uploader was Konczewski at English Wikipedia.",
+        "descripcion": "Cover of Fantastic Comics #1 (1939)"
+      },
+      {
+        "fichero": "File:Fantastic Comics no. 3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Fantastic_Comics_no._3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Fantastic_Comics_no._3.jpg",
+        "ancho": 1729,
+        "alto": 2355,
+        "licencia": "Public domain",
+        "autor": "Lou Fine",
+        "descripcion": "Cover of Fantastic Comics (Fox Comics) no. 3. A giant man fights a giant robot in the wreckage of a city; the man wields a spiked ball on a chain, while the robot wields a train car whose passengers are falling out. Another giant robot approaches."
+      },
+      {
+        "fichero": "File:Indians Comics 1.djvu",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Indians_Comics_1.djvu/page1-960px-Indians_Comics_1.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Indians_Comics_1.djvu",
+        "ancho": 1084,
+        "alto": 1500,
+        "licencia": "Public domain",
+        "autor": "Unknown authorUnknown author",
+        "descripcion": "1950s cowboy pulp comic"
+      },
+      {
+        "fichero": "File:Samson comic page.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Samson_comic_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Samson_comic_page.jpg",
+        "ancho": 343,
+        "alto": 479,
+        "licencia": "Public domain",
+        "autor": "Alex Boon, Original uploader was Madmikeyd at Public Domain Superheroes",
+        "descripcion": "First page of Samson #1 - 1940 Fox Feature Syndicate"
+      },
+      {
+        "fichero": "File:Samson the Strong Man 1905-05-16.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Samson_the_Strong_Man_1905-05-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Samson_the_Strong_Man_1905-05-16.jpg",
+        "ancho": 800,
+        "alto": 1173,
+        "licencia": "Public domain",
+        "autor": "Willis Thorndike",
+        "descripcion": "The text in this image should be transcribed and included in the description on this page. \n\nReplace this template with {{Transcription}} after transcription. See also Converting from image formats to text (optical character recognition)."
+      },
+      {
+        "fichero": "File:Samson the Strong Man 1905-06-16.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Samson_the_Strong_Man_1905-06-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Samson_the_Strong_Man_1905-06-16.jpg",
+        "ancho": 800,
+        "alto": 1157,
+        "licencia": "Public domain",
+        "autor": "Willis Thorndike",
+        "descripcion": "The text in this image should be transcribed and included in the description on this page. \n\nReplace this template with {{Transcription}} after transcription. See also Converting from image formats to text (optical character recognition)."
+      },
+      {
+        "fichero": "File:Samson tue un lion.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Samson_tue_un_lion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Samson_tue_un_lion.jpg",
+        "ancho": 408,
+        "alto": 500,
+        "licencia": "Public domain",
+        "autor": "Gustave Doré",
+        "descripcion": "Gravure de Gustave Doré"
+      }
+    ]
+  },
+  {
+    "id": "silver-streak",
+    "nombre": "Silver Streak",
+    "qid": "Q7516412",
+    "wikipedia": "https://en.wikipedia.org/wiki/Silver_Streak_%28character%29",
+    "descripcion_es": null,
+    "descripcion_en": "fictional superhero character",
+    "editorial": [
+      "Lev Gleason Publications"
+    ],
+    "creadores": [
+      "Joe Simon"
+    ],
+    "debut": "Silver Streak Comics #3 (March 1940)",
+    "alter_ego": null,
+    "poderes": "Super-speed Flight",
+    "imagenes": [
+      {
+        "fichero": "File:Daredevil Battles Hitler.djvu",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Daredevil_Battles_Hitler.djvu/page1-960px-Daredevil_Battles_Hitler.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Daredevil_Battles_Hitler.djvu",
+        "ancho": 1082,
+        "alto": 1500,
+        "licencia": "Public domain",
+        "autor": "Desconocido",
+        "descripcion": "Daredevil Comics #01 [1941-07]."
+      },
+      {
+        "fichero": "File:Silver Streak 5.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Silver_Streak_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Silver_Streak_5.jpg",
+        "ancho": 1422,
+        "alto": 2000,
+        "licencia": "Public domain",
+        "autor": "Jack Cole",
+        "descripcion": "Cover of Silver Streak Comics #5 (July of 1940) Lev Gleason Publications. (defunct co.)"
+      },
+      {
+        "fichero": "File:Silver Streak 8.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Silver_Streak_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Silver_Streak_8.jpg",
+        "ancho": 1200,
+        "alto": 1700,
+        "licencia": "Public domain",
+        "autor": "Jack Cole",
+        "descripcion": "Cover of Silver Streak Comics #8 (March of 1941) Lev Gleason Pubs. (defunct co.)"
+      },
+      {
+        "fichero": "File:Silverstreak 001.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Silverstreak_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:Silverstreak_001.jpg",
+        "ancho": 1673,
+        "alto": 2328,
+        "licencia": "Public domain",
+        "autor": "Don Rico",
+        "descripcion": "Cover of Silver Streak Comics #11 (May, 1941) art by Don Rico"
+      },
+      {
+        "fichero": "File:The Saint in the cover of Silver Streak Comics 21.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Saint_in_the_cover_of_Silver_Streak_Comics_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:The_Saint_in_the_cover_of_Silver_Streak_Comics_21.jpg",
+        "ancho": 904,
+        "alto": 1256,
+        "licencia": "Public domain",
+        "autor": "Leslie Charteris",
+        "descripcion": "The Saint in the cover of Silver Streak Comics 21."
+      }
+    ]
+  },
+  {
+    "id": "american-eagle",
+    "nombre": "American Eagle",
+    "qid": "Q4743642",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Eagle_%28Standard_Comics%29",
+    "descripcion_es": null,
+    "descripcion_en": "Golden Age comic book superhero",
+    "editorial": [
+      "Standard Comics AC Comics America's Best Comics (DC)"
+    ],
+    "creadores": [
+      "Richard E. Hughes",
+      "Kin Platt"
+    ],
+    "debut": "America's Best Comics #2 (Sept 1941)",
+    "alter_ego": null,
+    "poderes": "Enhanced strength Flight \"Fighting qualities of America's national bird\"",
+    "imagenes": [
+      {
+        "fichero": "File:AmericasBestComics1001.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/AmericasBestComics1001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "pagina": "https://commons.wikimedia.org/wiki/File:AmericasBestComics1001.jpg",
+        "ancho": 1625,
+        "alto": 2429,
+        "licencia": "Public domain",
+        "autor": "Alex Schomburg",
+        "descripcion": "Doc Strange, Black Terror, American Eagle and Pyroman on the over of America's Best Comics #10, July 1944"
+      }
+    ]
+  }
+]

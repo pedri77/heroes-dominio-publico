@@ -1,0 +1,228 @@
+@import "tailwindcss";
+
+/* Lenis: su CSS no se exporta como ruta, se copia aquí. */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis:not(.lenis-autoToggle).lenis-stopped {
+  overflow: clip;
+}
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+
+/* Fuentes: autoalójalas en public/fonts con @font-face (sin CDN si la marca lo exige). */
+
+/* ------------------------------------------------------------------
+   Tokens de marca: sustitúyelos por los de la marca del proyecto
+   Mantén los nombres de token: los componentes los usan (void, superficie, rojo = acento, texto…).
+   ------------------------------------------------------------------ */
+@theme {
+  --font-display: "Anton", Impact, "Arial Narrow", sans-serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-cifra: "Anton", Impact, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+
+  /* Tinta negra cálida, papel de pulpa y rojo de imprenta. */
+  --color-void: oklch(13% 0.012 30);
+  --color-superficie: oklch(18% 0.016 30);
+  --color-elevado: oklch(24% 0.02 30);
+  --color-borde: oklch(32% 0.02 30);
+  --color-rojo: oklch(58% 0.22 28);
+  --color-rojo-profundo: oklch(48% 0.19 27);
+  --color-papel: oklch(90% 0.04 85);
+  --color-texto: oklch(94% 0.025 85);
+  --color-texto-2: oklch(74% 0.03 70);
+  --color-texto-3: oklch(54% 0.025 50);
+
+  --text-hero: clamp(3.25rem, 10vw, 10rem);
+  --text-hero--line-height: 0.9;
+  --text-hero--letter-spacing: 0;
+
+  --text-display: clamp(2rem, 4.6vw, 4.25rem);
+  --text-display--line-height: 1.02;
+
+  --text-lead: clamp(1.125rem, 1.6vw, 1.5rem);
+  --text-lead--line-height: 1.5;
+
+  --text-body: clamp(0.9375rem, 1.05vw, 1.0625rem);
+  --text-body--line-height: 1.65;
+
+  --text-etiqueta: 0.6875rem;
+  --text-etiqueta--line-height: 1.3;
+  --text-etiqueta--letter-spacing: 0.16em;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    background: var(--color-void);
+  }
+  body {
+    margin: 0;
+    background: var(--color-void);
+    color: var(--color-texto);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    overflow-x: clip;
+  }
+  ::selection {
+    background: var(--color-rojo);
+    color: var(--color-texto);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-rojo);
+    outline-offset: 3px;
+    border-radius: 8px;
+  }
+}
+
+@layer utilities {
+  .h-pantalla {
+    height: 100svh;
+  }
+
+  /* Trama de puntos de imprenta (semitono). */
+  .trama {
+    background-image: radial-gradient(circle at center, currentColor 0 34%, transparent 36%);
+    background-size: 7px 7px;
+  }
+  /* Grano de papel: ruido SVG muy suave. */
+  .grano {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.9 0 0 0 0 0.85 0 0 0 0 0.7 0 0 0 0.5 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .antetitulo {
+    font-family: var(--font-mono);
+    font-size: var(--text-etiqueta);
+    letter-spacing: var(--text-etiqueta--letter-spacing);
+  }
+
+  /* Esquinas de visor del HUD. */
+  .esquinas {
+    --l: 14px;
+    background:
+      linear-gradient(currentColor, currentColor) top left / var(--l) 1px,
+      linear-gradient(currentColor, currentColor) top left / 1px var(--l),
+      linear-gradient(currentColor, currentColor) top right / var(--l) 1px,
+      linear-gradient(currentColor, currentColor) top right / 1px var(--l),
+      linear-gradient(currentColor, currentColor) bottom left / var(--l) 1px,
+      linear-gradient(currentColor, currentColor) bottom left / 1px var(--l),
+      linear-gradient(currentColor, currentColor) bottom right / var(--l) 1px,
+      linear-gradient(currentColor, currentColor) bottom right / 1px var(--l);
+    background-repeat: no-repeat;
+  }
+
+  /* Entradas: 600 ms con escalonado de 90 ms (--i). */
+  [data-aparece] {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0);
+    transition:
+      opacity 0.6s cubic-bezier(0.2, 0.7, 0.1, 1),
+      transform 0.6s cubic-bezier(0.2, 0.7, 0.1, 1);
+    transition-delay: calc(var(--i, 0) * 90ms);
+  }
+  [data-aparece].dentro {
+    opacity: 1;
+    transform: none;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    [data-aparece] {
+      transform: none;
+      transition-duration: 0.01ms;
+    }
+  }
+}
+
+@keyframes entra-paso {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 10px, 0);
+  }
+}
+
+/* Patrón 13: etiqueta anclada a un punto que se mueve dentro del plano.
+   El contenedor se coloca en el punto (transform); punto, línea y texto cuelgan de él. */
+.ancla {
+  --largo: 64px;
+}
+.ancla-punto {
+  position: absolute;
+  left: -5px;
+  top: -5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1.5px solid var(--color-texto);
+  box-shadow: 0 0 0 4px color-mix(in oklch, var(--color-rojo) 35%, transparent);
+}
+.ancla-linea {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: var(--largo);
+  height: 1px;
+  background: color-mix(in oklch, var(--color-texto) 70%, transparent);
+}
+.ancla-texto {
+  position: absolute;
+  top: -1.4em;
+  left: calc(var(--largo) + 10px);
+  white-space: nowrap;
+  /* píldora oscura: el plano puede ser claro justo donde cae la etiqueta (vidrieras, cielos) */
+  padding: 0.45em 0.8em 0.5em;
+  border-radius: 6px;
+  background: color-mix(in oklch, var(--color-void) 72%, transparent);
+  backdrop-filter: blur(6px);
+  font-size: 0.75rem;
+  letter-spacing: var(--text-etiqueta--letter-spacing);
+  text-transform: uppercase;
+  color: var(--color-texto);
+}
+.ancla-texto b {
+  display: block;
+  font-weight: 600;
+}
+.ancla-texto small {
+  display: block;
+  margin-top: 2px;
+  color: var(--color-texto-2);
+  letter-spacing: 0.08em;
+}
+.ancla[data-lado="izq"] .ancla-linea {
+  left: auto;
+  right: 5px;
+}
+.ancla[data-lado="izq"] .ancla-texto {
+  left: auto;
+  right: calc(var(--largo) + 10px);
+  text-align: right;
+}
+
+/* Patrón 19: hueco de plantilla que pasa de [marcador] a valor. El ancho lo escribe el componente
+   (de un ancho natural al otro); marcador y valor se superponen en la misma celda. */
+.hueco {
+  --luz: 0;
+  display: inline-grid;
+  vertical-align: baseline;
+  overflow: hidden;
+  white-space: nowrap;
+  border-radius: 6px;
+  box-shadow: 0 0 0 calc(var(--luz) * 1.5px) var(--color-rojo), 0 0 calc(var(--luz) * 18px) color-mix(in oklch, var(--color-rojo) 45%, transparent);
+}
+.hueco > span {
+  grid-area: 1 / 1;
+  justify-self: start;
+  padding: 0 0.3em;
+}
+.hueco-marcador {
+  color: var(--color-rojo);
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+}
+.hueco-valor {
+  color: var(--color-texto);
+  font-weight: 600;
+  background: color-mix(in oklch, var(--color-rojo) 16%, transparent);
+  border-radius: 6px;
+}

@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+# Descargas en bruto, caché y previas: se regeneran con scripts/datos.py (incluyen portadas descartadas)
+datos-crudos/
+.env*
+*.pem
